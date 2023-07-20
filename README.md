@@ -34,4 +34,3 @@ To replicate the results or explore the code, follow these steps:
 - Jupyter Notebook
 - Libraries: numpy, pandas, scikit-learn, tensorflow, keras, matplotlib, seaborn
 
-## File Structure
